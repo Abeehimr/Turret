@@ -8,9 +8,9 @@ The system integrates image processing, geometric angle mapping, serial communic
 
 ---
 ## Clips
-![close up](images/IMG_3831.JPG)
----
-![working](images/IMG_3833.JPG)
+| Close Up | Working |
+|----------|---------|
+| ![close up](images/IMG_3831.JPG) | ![working](images/IMG_3833.JPG) |
 ## Features
 
 - Real-time color-based object detection using HSV segmentation
