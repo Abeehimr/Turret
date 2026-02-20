@@ -41,13 +41,13 @@ Where:
 ---
 
 ## Project Structure
-
+```
 .
 ├── object_detection.py     # Real-time tracking and firing logic
 ├── auto_calibration.py     # Edge scanning and offset calibration
 ├── turret_firmware.ino     # Arduino firmware
 └── README.md
-
+```
 ---
 
 ## Installation
