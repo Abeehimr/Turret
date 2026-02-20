@@ -7,7 +7,10 @@ Autonomous Vision-Guided Turret is a real-time computer vision and embedded syst
 The system integrates image processing, geometric angle mapping, serial communication, and firmware-level actuation to achieve accurate pan-tilt tracking and controlled firing using a custom-built trigger mechanism.
 
 ---
-
+## Clips
+![close up](images/IMG_3831.JPG)
+---
+![working](images/IMG_3833.JPG)
 ## Features
 
 - Real-time color-based object detection using HSV segmentation
